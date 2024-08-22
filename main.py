@@ -25,7 +25,7 @@ while True:
     else:
         break
     break
-print("Thank You for using the service!")
+print("Thank You for using the service! ")
 
 
 
